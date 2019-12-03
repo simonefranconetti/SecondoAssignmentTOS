@@ -8,8 +8,8 @@
         <property name="fileExtensions" value="java"/>
     </module>
     <module name="FileLength"/>
-    <module name="LineLength"/>
     <module name = "TreeWalker">
+    	<module name="LineLength"/>
         <module name="BooleanExpressionComplexity"/>
         <module name="CyclomaticComplexity"/>
         <module name="MethodLength"/>
